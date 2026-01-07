@@ -18,6 +18,6 @@ Sure, you can't simulate a quantum computer with the same performance, but howev
 
 ## Resources
 
-<https://en.wikipedia.org/wiki/Grover%27s_algorithm>
-<https://quantum.country/search>
-<https://www.youtube.com/watch?v=RQWpF2Gb-gU&t=1524s&pp=ygUWMyBibHVlIDEgYnJvd24gcXVhbnR1bQ%3D%3D>
+- <https://en.wikipedia.org/wiki/Grover%27s_algorithm>
+- <https://quantum.country/search>
+- <https://www.youtube.com/watch?v=RQWpF2Gb-gU&t=1524s&pp=ygUWMyBibHVlIDEgYnJvd24gcXVhbnR1bQ%3D%3D>
